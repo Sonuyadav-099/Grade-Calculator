@@ -24,8 +24,13 @@ The project is modular, with separate files for input, grading, statistics, sort
 - Basic testing using print statements
 
 ## Installation & Setup
-- Clone the repository:
-   ```bash
+# 1. Clone the repository
+git clone <your-repo-url>
+cd pysolve-toolkit
+
+# 2. No external dependencies -- just run it (Python 3.10+)
+python3 main.py
+
 ## Screenshots
 <img width="1228" height="681" alt="Screenshot 2026-09-29 120513" src="https://github.com/user-attachments/assets/b6ff89ba-d44b-4503-9e1a-aaf2a9177ec3" />
 <img width="1228" height="662" alt="Screenshot 2026-09-29 120532" src="https://github.com/user-attachments/assets/13e2b8b4-4cd4-4200-8467-fa5a1fabba1a" />
