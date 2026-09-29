@@ -24,11 +24,11 @@ The project is modular, with separate files for input, grading, statistics, sort
 - Basic testing using print statements
 
 ## Installation & Setup
-# 1. Clone the repository
-git clone <your-repo-url>
+### 1. Clone the repository
+git clone https://github.com/Sonuyadav-099/Grade-Calculator.git
 cd pysolve-toolkit
 
-# 2. No external dependencies -- just run it (Python 3.10+)
+### 2. No external dependencies -- just run it (Python 3.10+)
 python3 main.py
 
 ## Screenshots
