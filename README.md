@@ -26,4 +26,14 @@ The project is modular, with separate files for input, grading, statistics, sort
 ## Installation & Setup
 - Clone the repository:
    ```bash
-   git clone 
+## Screenshots
+<img width="1228" height="681" alt="Screenshot 2026-09-29 120513" src="https://github.com/user-attachments/assets/b6ff89ba-d44b-4503-9e1a-aaf2a9177ec3" />
+<img width="1228" height="662" alt="Screenshot 2026-09-29 120532" src="https://github.com/user-attachments/assets/13e2b8b4-4cd4-4200-8467-fa5a1fabba1a" />
+<img width="1215" height="650" alt="Screenshot 2026-09-29 120552" src="https://github.com/user-attachments/assets/abf8c264-c05c-4dd2-a43e-fc821da329b2" />
+<img width="1197" height="642" alt="Screenshot 2026-09-29 120605" src="https://github.com/user-attachments/assets/09203e1a-1dd0-4a02-a20e-5d669131f941" />
+<img width="1196" height="644" alt="Screenshot 2026-09-29 120618" src="https://github.com/user-attachments/assets/d4b45548-cd32-4e81-ac46-e383eb9cb574" />
+
+
+
+
+
