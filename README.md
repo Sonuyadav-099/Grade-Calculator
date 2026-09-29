@@ -14,6 +14,7 @@ The project is modular, with separate files for input, grading, statistics, sort
 - Validate marks (no negative values or more than maximum)
 - Calculate subject averages and overall average
 - Find highest marks in each subject
+- 
 - Sort students by total marks using Bubble Sort
 - Print report cards with grades (S, A, B, C, D, F)
 - Simple testing file to check grading logic
